@@ -49,7 +49,7 @@ Enums from fpdf help avoid deprecated parameters for line breaks.
 
 ➤Step 2: Load CSV data
 
-   df = pd.read_csv("students.csv")
+   df = pd.read_csv("name,class,marks")
 Reads the CSV file into a DataFrame df.
 
 Assumes columns like Name, Class, Marks.
@@ -191,3 +191,8 @@ Writes the PDF to disK
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/0feb925e-ec59-4122-a8d5-467964763e72)
+
+![Image](https://github.com/user-attachments/assets/ee097a84-296c-4cf9-9313-0876e778be37)
+
+![Image](https://github.com/user-attachments/assets/66d94634-ce70-46c1-bc76-5350bb7ed635)
